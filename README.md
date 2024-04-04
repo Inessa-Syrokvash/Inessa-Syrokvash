@@ -13,18 +13,16 @@ You can connect with me via this [link](https://github.com/Inessa-Syrokvash) or 
 <br>
 </div>
 
-<!-- --- -->
-
-
-
 ### - About - 
 Hi! My name is Inessa! I am a frontend developer. I am passionate about creating beautiful and functional websites. My skill set includes using advanced technologies such as HTML 5, CSS 3 and JavaScript to create a unique and attractive user interface. I have also mastered Bootstrap, which allows me to quickly and efficiently to develop responsive websites. I'm creative and attentive to detail, so I often use animation to create effects that bring my work to life. I love to do the little things, to perfect everything. I am currently studying React in depth to expand my skills and to create more complex web applications. I would be happy to provide my services and take part in interesting projects! [link] (https://cactus-sneaky-base.glitch.me/index.html)
 <br>
 
-### - Let's create a user-friendly website with a touch of magic 🌐 - 
+### 
 
-### - Social Media - 
-Let's make great and creative projects. Together we will create something unique. 📫 How to reach me: 
+### - Social Media 🌐  - 
+Let's create a user-friendly website with a touch of magic. <br>
+Let's make great and creative projects. Together we will create something unique. <br>
+📫 How to reach me: 
 <br>
 <div align="center">
 <a href="https://www.instagram.com/inesska.0486/" target="_blank">
