@@ -1,6 +1,5 @@
 <div align="center">
 
-
 ### Hi there 👋!  
 ## My name is Inessa Syrokvash)
 **If you need a webdev, hire me ➡ [Portfolio](https://cactus-sneaky-base.glitch.me/index.html)**
@@ -25,8 +24,7 @@ Hi! My name is Inessa! I am a frontend developer. I am passionate about creating
 ### 🌐 - Let's create a user-friendly website with a touch of magic. -
 
 ### Social Media:
-Let's make great and creative projects. Together we will create something unique. <br>
-📫 How to reach me: <br>
+Let's make great and creative projects. Together we will create something unique. 📫 How to reach me: <br>
 <a href="https://www.instagram.com/inesska.0486/" target="_blank">
  <img src="https://cdn.glitch.global/ce747322-bc63-4436-b4da-8295aca4cd94/Social%20Instagram%202.png?v=1708752862967" alt="Instagram" width="50px">
 </a>
