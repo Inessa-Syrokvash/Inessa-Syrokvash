@@ -1,7 +1,8 @@
 <div align="center">
-# Inessa Syrokvash  
 
-### Hi there 👋!   
+
+### Hi there 👋!  
+## My name is Inessa Syrokvash)
 **If you need a webdev, hire me ➡ [Portfolio](https://cactus-sneaky-base.glitch.me/index.html)**
 
 You can connect with me via this [link](https://github.com/Inessa-Syrokvash) or by [Mail](mailto:inesska.0486@gmail.com).
