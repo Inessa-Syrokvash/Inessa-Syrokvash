@@ -1,5 +1,5 @@
 <div align="center">
-# **Inessa Syrokvash**
+# Inessa Syrokvash  
 
 ### Hi there 👋!   
 **If you need a webdev, hire me ➡ [Portfolio](https://cactus-sneaky-base.glitch.me/index.html)**
