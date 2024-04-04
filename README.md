@@ -17,14 +17,16 @@ You can connect with me via this [link](https://github.com/Inessa-Syrokvash) or 
 
 
 
-### - About -:
+### - About - 
 Hi! My name is Inessa! I am a frontend developer. I am passionate about creating beautiful and functional websites. My skill set includes using advanced technologies such as HTML 5, CSS 3 and JavaScript to create a unique and attractive user interface. I have also mastered Bootstrap, which allows me to quickly and efficiently to develop responsive websites. I'm creative and attentive to detail, so I often use animation to create effects that bring my work to life. I love to do the little things, to perfect everything. I am currently studying React in depth to expand my skills and to create more complex web applications. I would be happy to provide my services and take part in interesting projects! [link] (https://cactus-sneaky-base.glitch.me/index.html)
 <br>
 
-### 🌐 - Let's create a user-friendly website with a touch of magic. -
+### - Let's create a user-friendly website with a touch of magic 🌐 - 
 
-### Social Media:
-Let's make great and creative projects. Together we will create something unique. 📫 How to reach me: <br>
+### - Social Media - 
+Let's make great and creative projects. Together we will create something unique. 📫 How to reach me: 
+<br>
+<div align="center">
 <a href="https://www.instagram.com/inesska.0486/" target="_blank">
  <img src="https://cdn.glitch.global/ce747322-bc63-4436-b4da-8295aca4cd94/Social%20Instagram%202.png?v=1708752862967" alt="Instagram" width="50px">
 </a>
@@ -36,22 +38,16 @@ Let's make great and creative projects. Together we will create something unique
 <a href="https://github.com/Inessa-Syrokvash" target="_blank">
  <img src="https://cdn.glitch.global/ce747322-bc63-4436-b4da-8295aca4cd94/icons8-github-100.png?v=1712140333827" alt="GitHub" width="50px">
 </a>
+</div>
 
+###  - 🔭 I am currently working on a website for a creative person -
+It's a very exciting project, I like her work, each of them is a whole world) 
+Also she is a very open and friendly person, full of new ideas for creativity.  
 
-Here are some ideas to get you started:
+### - 🌱 I am currently learning - 
+  React, Redux and Node. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-<h2> 🥞 Tech Stack</h2>
+### - 🥞 Tech Stack - 
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
@@ -64,3 +60,12 @@ Here are some ideas to get you started:
 </p>
 <br>
 
+
+<!--
+Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
