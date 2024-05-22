@@ -2,9 +2,9 @@
 
 ### Hi there 👋!  
 ## My name is Inessa Syrokvash)
-**If you need a webdev, hire me ➡ [Portfolio](https://cactus-sneaky-base.glitch.me/index.html)**
+**If you need a webdev, hire me ➡ [Portfolio](https://inessa-syrakvash.netlify.app/)**
 
-You can connect with me via this [link](https://github.com/Inessa-Syrokvash) or by [Mail](mailto:inesska.0486@gmail.com).
+You can connect with me via this [link](https://github.com/Inessa-Syrokvash) or by [Mail](mailto:syrakvashinessa@gmail.com).
 <br>
 
 <a href="https://the-unl.com" target="_blank">
